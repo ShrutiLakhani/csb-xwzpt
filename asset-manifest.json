@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://shrutilakhani.github.io/csb-xwzpt/static/css/main.82988dc7.chunk.css",
+    "main.js": "https://shrutilakhani.github.io/csb-xwzpt/static/js/main.c2e159b3.chunk.js",
+    "main.js.map": "https://shrutilakhani.github.io/csb-xwzpt/static/js/main.c2e159b3.chunk.js.map",
+    "runtime-main.js": "https://shrutilakhani.github.io/csb-xwzpt/static/js/runtime-main.1c9af911.js",
+    "runtime-main.js.map": "https://shrutilakhani.github.io/csb-xwzpt/static/js/runtime-main.1c9af911.js.map",
+    "static/js/2.1e407d51.chunk.js": "https://shrutilakhani.github.io/csb-xwzpt/static/js/2.1e407d51.chunk.js",
+    "static/js/2.1e407d51.chunk.js.map": "https://shrutilakhani.github.io/csb-xwzpt/static/js/2.1e407d51.chunk.js.map",
+    "index.html": "https://shrutilakhani.github.io/csb-xwzpt/index.html",
+    "static/css/main.82988dc7.chunk.css.map": "https://shrutilakhani.github.io/csb-xwzpt/static/css/main.82988dc7.chunk.css.map",
+    "static/js/2.1e407d51.chunk.js.LICENSE.txt": "https://shrutilakhani.github.io/csb-xwzpt/static/js/2.1e407d51.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c9af911.js",
+    "static/js/2.1e407d51.chunk.js",
+    "static/css/main.82988dc7.chunk.css",
+    "static/js/main.c2e159b3.chunk.js"
+  ]
+}
